@@ -243,7 +243,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@jupyterlab/application@npm:^4.0.0":
+"@jupyterlab/application@npm:^4.0.11":
   version: 4.0.11
   resolution: "@jupyterlab/application@npm:4.0.11"
   dependencies:
@@ -3211,7 +3211,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "jupyterlab-iframe-bridget-example@workspace:."
   dependencies:
-    "@jupyterlab/application": ^4.0.0
+    "@jupyterlab/application": ^4.0.11
+    "@jupyterlab/apputils": ^4.1.11
     "@jupyterlab/builder": ^4.0.0
     "@types/json-schema": ^7.0.11
     "@types/react": ^18.0.26
